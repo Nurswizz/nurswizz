@@ -18,5 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nurswizz&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/ba5d45b0-4943-4060-9161-a2f5ae5e87ba.svg)](https://wakatime.com/@ba5d45b0-4943-4060-9161-a2f5ae5e87ba)
+[![wakatime](https://wakatime.com/badge/user/ba5d45b0-4943-4060-9161-a2f5ae5e87ba/project/3bb7f411-b83a-4382-ba48-d01f0af7925f.svg)](https://wakatime.com/badge/user/ba5d45b0-4943-4060-9161-a2f5ae5e87ba/project/3bb7f411-b83a-4382-ba48-d01f0af7925f)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
