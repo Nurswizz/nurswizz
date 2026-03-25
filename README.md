@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nursultan</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [Skilltree.AI](https://github.com/Nurswizz/skill-tree-ai)
+- 🔭 I’m currently working on [Stacked Intern Bot](https://github.com/Nurswizz/stacked-intern)
 
 - 📫 How to reach me **nur646132@gmail.com**
 
